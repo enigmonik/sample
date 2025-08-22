@@ -1,0 +1,11 @@
+{
+    "name": "enigmonik/sample",
+    "type": "sample",
+    "authors": [
+        {
+            "name": "Nikolay Stankov",
+            "email": "enigmonik@gmail.com"
+        }
+    ],
+    "require": {}
+}
